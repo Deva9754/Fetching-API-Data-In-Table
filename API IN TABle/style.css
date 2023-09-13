@@ -1,3 +1,15 @@
 img{
     width: 100px;
+
+}
+html,body{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 31%, rgba(253,187,45,1) 100%);
+    
+}
+#h1{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 31%, rgba(253,187,45,1) 100%);
 }
